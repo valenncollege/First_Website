@@ -1,7 +1,7 @@
 *,
 html{
   padding: 0;
-  margin: 2;
+  margin: 0;
 }
 
 body
@@ -11,7 +11,7 @@ background-color: white;
 
 .ContainerNavbar{
 background-color: pink;
-  height: 100px;
+  height: 10vh;
 }
 
 .ulNavbar{
@@ -39,4 +39,21 @@ background-color: pink;
   margin: 5px;
   height: 50%;
   width: 50%;
+}
+
+.container-content {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.container-footer{
+  background-color: crimson;
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
 }
