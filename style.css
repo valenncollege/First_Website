@@ -30,12 +30,6 @@ background-color: pink;
   color: red;
 }
 
-.content-gambar{
- display: flex;
- background-color: red;
- justify-content: center;
-}
-
 .gambar-furina{
   height: 20%;
   width: 20%;
